@@ -101,3 +101,15 @@ button {
 .grid-c-title-icon img {
   width: 24px;
 }
+
+
+
+
+@media screen and (max-width: 1400px) {
+  .grid-common {
+    padding: 16px;
+  }
+  body {
+    font-size: 14px !important;
+  }
+}
